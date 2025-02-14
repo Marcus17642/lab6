@@ -44,12 +44,12 @@ build {
   }
 
   provisioner "file" {
-    source      = "files/index.html"  # Update with the actual path to your HTML file
+    source      = "files/index.html"  
     destination = "/var/www/html/index.html"
   }
 
   provisioner "file" {
-    source      = "files/nginx.conf"  # Update with the actual path to your nginx.conf file
+    source      = "files/nginx.conf"  
     destination = "/etc/nginx/nginx.conf"
   }
 
