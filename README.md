@@ -3,3 +3,5 @@
 Starter files for the week 6 lab, intro to Packer.
 
 See lab instructions on D2L for details.
+
+![Alt text](lab6_working.png)
